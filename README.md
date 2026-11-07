@@ -1,16 +1,36 @@
-## Hi there 👋
 
-<!--
-**codewith-bharat/codewith-bharat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Bharat Singh 👋
 
-Here are some ideas to get you started:
+### Aspiring Software Developer | BCA Graduate
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Welcome to my GitHub profile!
+
+I'm a BCA graduate interested in software development, programming, and building practical applications.
+
+### 🚀 About Me
+- 🎓 BCA Graduate
+- 💻 Interested in Software Development
+- 🌱 Currently refreshing Java and Python
+- 📚 Learning SQL and Database Management
+- 🎯 Goal: Build real-world projects and grow as a developer
+
+### 🛠️ Technologies I've Studied
+- Java
+- Python
+- C / C++
+- PHP
+- HTML
+- SQL
+- DBMS
+
+### 📌 My Goals
+- Improve problem-solving skills
+- Build practical coding projects
+- Learn new technologies
+- Explore IT internship opportunities
+
+### 🤝 Let's Connect
+- LinkedIn: [My LinkedIn Profile](YOUR_LINKEDIN_URL)
+- GitHub: https://github.com/codewith-bharat
+
+Thanks for visiting my profile! ⭐
